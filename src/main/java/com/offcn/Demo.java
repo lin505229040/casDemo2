@@ -21,5 +21,7 @@ public class Demo {
         System.out.println("我来啦！");
     }
 
-
+    public static  void show2(){
+        System.out.println("我来啦！");
+    }
 }
