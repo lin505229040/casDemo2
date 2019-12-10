@@ -1,3 +1,4 @@
+
 package com.offcn;
 
 /**
@@ -15,8 +16,14 @@ public class Demo {
         System.out.println("我是孙子文！");
     }
 
+
     public static  void show(){
         System.out.println("我来啦！");
+    }
+
+
+    public static void show1(){
+        System.out.println("hhaha");
     }
 
 }
