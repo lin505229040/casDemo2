@@ -14,7 +14,9 @@ public class Demo {
     public static  void get(){
         System.out.println("我是孙子文！");
     }
+
     public static  void show(){
         System.out.println("我来啦！");
     }
+
 }
