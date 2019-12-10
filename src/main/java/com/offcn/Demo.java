@@ -21,9 +21,8 @@ public class Demo {
         System.out.println("我来啦！");
     }
 
-
-    public static void show1(){
-        System.out.println("hhaha");
+    public static void show2(){
+        System.out.println("sada");
     }
 
 }
