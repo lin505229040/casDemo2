@@ -27,4 +27,7 @@ public class Demo {
     public static  void show3(){
         System.out.println("我来啦！");
     }
+    public static  void show4(){
+        System.out.println("我来啦！");
+    }
 }
